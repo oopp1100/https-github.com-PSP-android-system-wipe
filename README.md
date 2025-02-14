@@ -1,1 +1,1 @@
-# https-github.com-PSP-android-system-wipe
+# https://-github.com-PSP-android-system-wipe
